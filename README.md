@@ -3,4 +3,4 @@ C++ programming assignment for the Digital Image Processing course at the Univer
 
 Completed during the first half of the Summer 2020 semester.
 
-Parse RGB image txt file
+Parses RGB image txt file and performs a simple calculation to create a grayscale version of the input image.

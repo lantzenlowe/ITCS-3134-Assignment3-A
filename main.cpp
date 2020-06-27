@@ -23,14 +23,9 @@ using namespace std;
  */
 int main() {
     // Part A
-    //parse_a_1("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/1.txt");
-    //parse_a_2("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/2.txt");
-    //parse_a_3("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/3.txt");
-    
-    // Part B
-    parse_b_1("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/1.txt");
-    //parse_b_2("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/2.txt");
-    //parse_b_3("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/3.txt");
+    parse_a_1("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/1.txt");
+    parse_a_2("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/2.txt");
+    parse_a_3("/Users/lantzlowe/Desktop/UNC-Charlotte/Senior (2020-2021)/ITCS 3134/Assignment3/3.txt");
 
     return 0;
 }
